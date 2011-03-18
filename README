@@ -3,7 +3,7 @@ This repository contains script files of some of the elementary functions I had 
 
 1) Studying Euclidean Algorithms
 1.1) Finding GCD - Euclidean_algo, my_gcd, 
-1.2) Finding coefficient in Bézout's identity - Extended_Euclidean_algo
+1.2) Finding coefficient in Bezout's identity - Extended_Euclidean_algo
 
 
 2) Prime factorisation
