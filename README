@@ -1,0 +1,29 @@
+This repository contains script files of some of the elementary functions I had studied in Abstract Algebra course(MA-305). These can be classified mainly into four categories.
+
+
+1) Studying Euclidean Algorithms
+1.1) Finding GCD - Euclidean_algo, my_gcd, 
+1.2) Finding coefficient in Bézout's identity - Extended_Euclidean_algo
+
+
+2) Prime factorisation
+2.1) Prime_factor
+2.2) Prime_factors
+
+3) Solving system of congruence relations
+3.1) Chinese Remainder theorem
+
+4) Solving the equation of the form f(x) congruent to 0 mod(n).
+The following is the sequence of in which I started from simple case and then developed the most general case.
+4.1) linear_equation
+4.2) linear_equation_s
+4.3) hd_prime (hd for Higher Order)
+4.4) hd_prime_s
+4.5) hd_primepower
+4.6) hd_primepower_s
+4.7) hd_anynumber - generalised case
+
+Supplementary programs-
+value, Permutation, Presentation
+
+Well I worked pretty hard for last part and I am pretty much happy about the way it works. I was following Herstein during my course work.
